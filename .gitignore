@@ -1,2 +1,12 @@
 .DS_Store
 .ipynb_checkpoints/
+.idea
+
+data/intermediate/test
+data/intermediate/train
+data/processed/test
+data/processed/train
+data/raw/test
+data/raw/train
+
+*.txt
