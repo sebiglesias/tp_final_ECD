@@ -19,8 +19,8 @@ El dataset ubicado en el directorio `data/raw/test` y `data/raw/train` fue obten
     - Script utilizado para unificar múltiples datasets de radiografías frontales y laterales de tórax con su correspondiente diagnóstico. Obtiene como resultado 2 carpetas (test y train) con las imágenes y 2 archivos csv (test y train) con su metadata.
 - `preprocessing.ipynb`
     - Script utilizado para el preprocesamiento de imágenes para la utilización de HOG y NMF
-- `models.ipynb`
-    - Script utilizado para entrenamiento y prueba del modelo de HOG y el modelo de HOG con NMF previo.
+- `hog.ipynb`
+    - Script utilizado para entrenamiento y prueba del modelo de HOG.
 
 
 ## Correr los scripts
