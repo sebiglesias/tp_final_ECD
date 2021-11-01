@@ -7,9 +7,4 @@
 
 3. hog.ipynb
 
-4. hog_svm.ipynb
-
-5. dim_reduced_hog.ipynb
-
-6. dim_reduced_hog_svm.ipynb
-
+Otros notebooks fueron para pruebas de concepto de otras cosas.
