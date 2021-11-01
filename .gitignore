@@ -9,6 +9,11 @@ data/processed/train
 data/raw/test
 data/raw/train
 
+data/processed/
+data/raw/
+data/raw2/
+
+
 *.txt
 *.jpg
 *.png
