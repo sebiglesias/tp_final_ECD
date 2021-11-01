@@ -10,3 +10,5 @@ data/raw/test
 data/raw/train
 
 *.txt
+*.jpg
+*.png
